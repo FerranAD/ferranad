@@ -6,6 +6,8 @@
 [![Tutanota](https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge)](mailto:contact@aran.email)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:contact@aran.email)
 
+<img src="https://api.tricked.pro/badge?user=ferranad"  alt="linux logo"  />
+
 <img src="https://raw.githubusercontent.com/ferranad/ferranad/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 
