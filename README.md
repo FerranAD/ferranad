@@ -3,8 +3,7 @@
 
 [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ferranaran/)
 [![Devpost](https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=003e54&logoColor=white&labelColor=&style=for-the-badge)](https://devpost.com/FerranAD/)
-[![Tutanota](https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge)](mailto:contact@aran.email)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:contact@aran.email)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:ferran@ferranaran.com)
 
 <img src="https://raw.githubusercontent.com/ferranad/ferranad/output/snake.svg" alt="Snake animation" />
 <br clear="both">
