@@ -1,9 +1,9 @@
 
 ###
-
+[![Email](https://img.shields.io/static/v1?message=Email&logo=Minutemailer&label=&color=14ACC2&logoColor=white&labelColor=&style=for-the-badge)](mailto:ferran@ferranaran.com)
 [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ferranaran/)
 [![Devpost](https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=003e54&logoColor=white&labelColor=&style=for-the-badge)](https://devpost.com/FerranAD/)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:ferran@ferranaran.com)
+[![Website](https://img.shields.io/static/v1?message=Website&logo=Awwwards&label=&color=33425C&logoColor=white&labelColor=&style=for-the-badge)](https://home.ferranaran.com)
 
 ### Hey! 👋
 My name is Ferran Aran Domingo, I am studing a [Master's degree in Computer Science at the University of Lleida (UdL)](https://masterinformatica.udl.cat/en) and [working at GFT](https://www.gft.com/us/en) as AI R&D.
