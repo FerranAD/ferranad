@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/static/v1?message=Website&logo=Awwwards&label=&color=33425C&logoColor=white&labelColor=&style=for-the-badge)](https://home.ferranaran.com)
 
 ### Hey! 👋
-My name is Ferran Aran Domingo, I am studing a [Master's degree in Computer Science at the University of Lleida (UdL)](https://masterinformatica.udl.cat/en) and [working at GFT](https://www.gft.com/us/en) as AI R&D.
+My name is Ferran Aran, I am studing a [Master's degree in Computer Science at the University of Lleida (UdL)](https://masterinformatica.udl.cat/en) and [working at GFT](https://www.gft.com/us/en) as AI R&D.
 
 - 📫 Contact me: ferran@ferranaran.com
 
