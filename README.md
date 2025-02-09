@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/static/v1?message=Website&logo=Awwwards&label=&color=33425C&logoColor=white&labelColor=&style=for-the-badge)](https://home.ferranaran.com)
 
 ### Hey! 👋
-My name is Ferran Aran, I am studing a [Master's degree in Computer Science at the University of Lleida (UdL)](https://masterinformatica.udl.cat/en) and [working at GFT](https://www.gft.com/us/en) as AI R&D.
+My name is Ferran Aran, I'm currently pursuing a PhD focused on applying Reinforcement Learning to optimize energy savings by controlling HVAC systems. By day, I work at [GFT](https://www.gft.com/us/en) on R&D as a Data Scientist.
 
 - 📫 Contact me: ferran@ferranaran.com
 
@@ -15,8 +15,12 @@ My name is Ferran Aran, I am studing a [Master's degree in Computer Science at t
 
 ###
 
+<!-- To search for icons https://devicon.dev/ -->
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
@@ -30,9 +34,7 @@ My name is Ferran Aran, I am studing a [Master's degree in Computer Science at t
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />         
 </div>
 
 ###
