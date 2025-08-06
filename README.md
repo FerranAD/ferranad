@@ -8,7 +8,7 @@
 ### Hey! 👋
 My name is Ferran Aran, I'm currently pursuing a PhD focused on applying Reinforcement Learning to optimize energy savings by controlling HVAC systems. By day, I work at [GFT](https://www.gft.com/us/en) on R&D as a Data Scientist.
 
-- 📫 Contact me: ferran@ferranaran.com
+- 📫 Contact me: ferran@aranferran.com
 
 <img src="https://raw.githubusercontent.com/ferranad/ferranad/output/snake.svg" alt="Snake animation" />
 <br clear="both">
