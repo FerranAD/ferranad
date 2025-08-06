@@ -1,9 +1,9 @@
 
 ###
-[![Email](https://img.shields.io/static/v1?message=Email&logo=Minutemailer&label=&color=14ACC2&logoColor=white&labelColor=&style=for-the-badge)](mailto:ferran@ferranaran.com)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=Minutemailer&label=&color=14ACC2&logoColor=white&labelColor=&style=for-the-badge)](mailto:ferran@aranferran.com)
 [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ferranaran/)
 [![Devpost](https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=003e54&logoColor=white&labelColor=&style=for-the-badge)](https://devpost.com/FerranAD/)
-[![Website](https://img.shields.io/static/v1?message=Website&logo=Awwwards&label=&color=33425C&logoColor=white&labelColor=&style=for-the-badge)](https://ferranaran.com)
+[![Website](https://img.shields.io/static/v1?message=Website&logo=Awwwards&label=&color=33425C&logoColor=white&labelColor=&style=for-the-badge)](https://aranferran.com)
 
 ### Hey! 👋
 My name is Ferran Aran, I'm currently pursuing a PhD focused on applying Reinforcement Learning to optimize energy savings by controlling HVAC systems. By day, I work at [GFT](https://www.gft.com/us/en) on R&D as a Data Scientist.
